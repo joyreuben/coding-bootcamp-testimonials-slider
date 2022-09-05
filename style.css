@@ -38,12 +38,11 @@ img {vertical-align: middle;}
     height:500px;
     } 
     .we{
-    width:80%;
+    width:100%;
     display:flex;
     flex-direction: row;
     margin-left:auto;
     margin-right:auto;
-    height:80%;
      box-shadow: 0px 4px 8px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 10px rgba(0, 0, 0, 0.2);
      border-radius:10px;
     } 
@@ -112,11 +111,10 @@ img {vertical-align: middle;}
     z-index: -1;
     }
     .we{
-    width:500px;
+    width:100%;
     display:block;
     margin-left:auto;
     margin-right:auto;
-    height:500px;
     box-shadow: 0px 4px 8px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 10px rgba(0, 0, 0, 0.2);
     border-radius:10px;
     }
@@ -127,11 +125,12 @@ img {vertical-align: middle;}
     width: auto;
     left:55%;
     color: red;
-    margin-top:-70px;
+    margin-top:-20px;
     transition: 0.6s ease;
     background-color:white;
     padding:10px;
     border-radius:45%;
+    height: 50px;
     }
     .next{
     margin-left:40px;
@@ -160,7 +159,7 @@ img {vertical-align: middle;}
     
     .slope{
      width:100%;
-     margin-top: 80px;
+     margin-top: 180px;
      margin-left: -90px;
     }
    .about{

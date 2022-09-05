@@ -1,4 +1,7 @@
-* {box-sizing: border-box}
+* {box-sizing: 
+    border-box;
+    margin:0;
+}
 body {
     font-family: 'Inter' , sans-serif; 
     margin:0
@@ -111,6 +114,7 @@ img {vertical-align: middle;}
     z-index: -1;
     }
     .we{
+    width:550px;
     display:block;
     margin-left:auto;
     margin-right:auto;
@@ -158,14 +162,14 @@ img {vertical-align: middle;}
     
     .slope{
      width:100%;
-     margin-top: 130px;
+     margin-top: 70px;
      margin-left: -90px;
     }
    .about{
       display: grid;
       grid-template-columns: 110px 250px;
       grid-gap: -20px;
-      margin-top: 350px;
+      margin-top: 290px;
     }
     .role{
     color:hsl(240, 18%, 77%);

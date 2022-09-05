@@ -138,7 +138,8 @@ img {vertical-align: middle;}
     }
     .prev:hover, .next:hover {
       background-color: rgba(19, 11, 11, 0.623);
-      background-size: cover;
+      background-size: 70px;
+
     }
     .quote{
      height:15px;
@@ -159,7 +160,7 @@ img {vertical-align: middle;}
     
     .slope{
      width:100%;
-     margin-top: 120px;
+     margin-top: 80px;
      margin-left: -90px;
     }
    .about{

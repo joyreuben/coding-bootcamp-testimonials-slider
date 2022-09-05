@@ -150,7 +150,7 @@ img {vertical-align: middle;}
     .text{
      position: absolute;
      color:hsl(240, 38%, 20%);
-     font-size: 25px;
+     font-size: 32px;
      text-align: left;
      z-index: 2;
      margin-top: 60px;
@@ -167,7 +167,7 @@ img {vertical-align: middle;}
       display: grid;
       grid-template-columns: 110px 250px;
       grid-gap: -20px;
-      margin-top: 250px;
+      margin-top: 350px;
     }
     .role{
     color:hsl(240, 18%, 77%);
